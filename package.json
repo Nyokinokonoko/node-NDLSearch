@@ -1,0 +1,22 @@
+{
+  "name": "ndlsearch",
+  "description": "Nodejs wrapper for the OpenURL search @ The National Diet Library of Japan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altkennyh2l/node-NDLSearch.git"
+  },
+  "author": "Kenny Ha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/altkennyh2l/node-NDLSearch/issues"
+  },
+  "homepage": "https://github.com/altkennyh2l/node-NDLSearch#readme",
+  "dependencies": {
+    "rss-parser": "^3.10.0"
+  }
+}
